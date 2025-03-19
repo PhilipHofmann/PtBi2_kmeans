@@ -6,7 +6,7 @@ A machine-learning approach to understanding ultrafast carrier dynamics in the 3
 
 by Paulina Majchrzak, Charlotte Sanders, Yu Zhang, Andrii Kuibarov,Oleksandr Suvorov,Emma Springate,Iryna Kovalchuk, Saicharan Aswartham, Grigory Shipunov Bernd B\"uchner, Alexander Yaresko, Sergey Borisenko and Philip Hofmann
 
-Physical Review Research 7, 013025 (2025).
+[Physical Review Research 7, 013025 (2025).](http://dx.doi.org/10.1103/PhysRevResearch.7.013025)
 
 If you are using the notebooks and tools introduced here, please cite the above paper in your work. Figure numbers in the notebook can refer to the two arxiv publications related to this paper:
 
