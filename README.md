@@ -6,9 +6,9 @@ A machine-learning approach to understanding ultrafast carrier dynamics in the 3
 
 by Paulina Majchrzak, Charlotte Sanders, Yu Zhang, Andrii Kuibarov,Oleksandr Suvorov,Emma Springate,Iryna Kovalchuk, Saicharan Aswartham, Grigory Shipunov Bernd B\"uchner, Alexander Yaresko, Sergey Borisenko and Philip Hofmann
 
-(to be published).
+Physical Review Research 7, 013025 (2025).
 
-If you are using the notebooks and tools introduced here, please cite the above paper in your work. Before the publication of this paper, please cite:
+If you are using the notebooks and tools introduced here, please cite the above paper in your work. Figure numbers in the notebook can refer to the two arxiv publications related to this paper:
 
 [Electron dynamics in a three-dimensional Brillouin zone analysed by machine learning](https://arxiv.org/abs/2406.10550)
 
